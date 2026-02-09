@@ -1,0 +1,24 @@
+# Claude Code
+.claude/
+
+# Python files (not part of web app)
+*.py
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Session and audit files
+UX_AUDIT.md
+PROJECT_DETAILS.md
+HOUSE_INVESTMENT_GUIDE.md
+stateTaxData.js
