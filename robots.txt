@@ -25,4 +25,4 @@ User-agent: PerplexityBot
 Allow: /
 
 # Sitemap
-Sitemap: https://mortgage-calculator.pages.dev/sitemap.xml
+Sitemap: https://mortgage-calculator-tau-five.vercel.app/sitemap.xml
